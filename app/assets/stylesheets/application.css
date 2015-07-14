@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-weight: 300
+}
+
+#splash {
+  position: relative;
+  top: 100px;
+  text-align: center;
+  width: 300px;
+  height: 100%;
+  margin: 0 auto;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 30px;
+
+}
